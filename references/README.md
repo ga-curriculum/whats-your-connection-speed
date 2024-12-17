@@ -5,6 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Cloudflare - Speed Test](https://speed.cloudflare.com/)

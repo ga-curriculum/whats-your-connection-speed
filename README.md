@@ -5,14 +5,18 @@
 
 ## About
 
-This module is used to learn what your connection speed is and be able to discuss why that matters.
+In this discussion module, you'll use the [Cloudflare Speed Test](https://speed.cloudflare.com/) to see what your connection speed is and discuss why that matters.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [What's Your Connection Speed?](./whats-your-connection-speed/README.md) | -- | Learn to test your connection speed and discuss why that matters                |
-| **Total content**                                   | -- |                                     |
+| [Understanding Your Connection's Performance](./understanding-your-connections-performance/README.md) | 15 min | Learn to test your connection speed and discuss why a your connection speed matters. |
+| **Total content**                                                                                     | 15 min |                                                                                      |
+
+## References
+
+📖 [Reference Materials](./references/README.md)
 
 ## Internal
 
@@ -22,8 +26,8 @@ This module is used to learn what your connection speed is and be able to discus
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-connection-speed/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-connection-speed/canvas-landing-pages/fallback.html)
 
 ### Resources
 

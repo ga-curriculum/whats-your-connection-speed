@@ -2,9 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-whatsYourConnectionSpeed = new Template.Microlesson {
+understandingYourConnectionsPerformance = new Template.Microlesson {
   friendlyName = "What's Your Connection Speed?"
-  dirName = "whats-your-connection-speed"
+  dirName = "understanding-your-connections-performance"
   type = "Content"
   videoUrl = ""
 }

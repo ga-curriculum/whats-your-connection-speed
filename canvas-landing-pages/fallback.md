@@ -4,24 +4,17 @@
   <span class="headline">What's Your Connection Speed?</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+In this discussion module, you'll use the [Cloudflare Speed Test](https://speed.cloudflare.com/) to see what your connection speed is and discuss why that matters.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills covered.                    |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills covered.                    |
-| **Total content**                                   | -- |                                         |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                          | -- |                      |
+| [Understanding Your Connection's Performance](../understanding-your-connections-performance/README.md) | 15 min | Learn to test your connection speed and discuss why a your connection speed matters. |
+| **Total content**                                                                                      | 15 min |                                                                                      |
 
 ## References
 
-📖 [Reference Materials](./references/README.md)
+📖 [Reference Materials](../references/README.md)
