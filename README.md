@@ -5,7 +5,7 @@
 
 ## About
 
-In this discussion module, you'll use the [Cloudflare Speed Test](https://speed.cloudflare.com/) to see what your connection speed is and discuss why that matters.
+In this discussion module, you'll use the [Cloudflare Speed Test](https://speed.cloudflare.com/) to see your connection speed and quality and discuss why those matter.
 
 ## Content
 

@@ -3,7 +3,7 @@
   <span class="subhead">Understanding Your Connection's Performance</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to measure a connection speed with an online tool and evaluate the factors that influence internet connection speed and quality.
+**Learning objective:** By the end of this lesson, students will be able to measure a connection's speed with an online tool and evaluate the factors that influence internet connection speed and quality.
 
 ## Why check your speed?
 
@@ -12,8 +12,8 @@ Ever wonder why your Netflix buffers but your friend's doesn't? Or why your vide
 ## Quick speed test guide
 
 1. Visit [Cloudflare Speed Test](https://speed.cloudflare.com/).
-2. Let the test run. It will happen automatically, and only takes a minute!
-3. Keep the results tab open and let's go over what these results mean.
+2. Let the test run. It will happen automatically and only takes a minute!
+3. Keep the results tab open, and let's review what these results mean.
 
 ## Understanding your results
 
@@ -27,13 +27,13 @@ Streaming Netflix needs about 5 Mbps for HD video and 15 Mbps for 4K video. Note
 
 | Mbps | Use case |
 | ---- | -------- |
-| Under 10           | Slow browsing.                                                                                                                     |
-| 10 - 25            | Basic browsing and streaming; online gaming*.                                                                                      |
-| 25 - 100           | Multiple browsing and streaming devices.                                                                                           |
-| 100 - 1000         | Multiple 4K streams, and quick downloads of large files.                                                                           |
-| 1000+ (or 1+ Gbps) | Complete larger downloads without slowing down other parts of the network. Reliably host small business server operations locally. |
+| Under 10           | Slow browsing.                                                                                                                          |
+| 10 - 25            | Basic browsing and streaming; online gaming*.                                                                                           |
+| 25 - 100           | Multiple browsing and streaming devices.                                                                                                |
+| 100 - 1000         | Multiple 4K streams and quick downloads of large files.                                                                                 |
+| 1000+ (or 1+ Gbps) | Complete larger downloads without slowing down other parts of the network. Reliably host many small business server operations locally. |
 
-> 🧠 In theory, online gaming typically does not require much bandwidth. That is, once you are playing. However, in practice, modern gaming requires higher download speeds to ensure games/patches are able to be downloaded quickly.
+> 🧠 In theory, online gaming typically does not require much bandwidth. That is, once you are playing. However, in practice, modern gaming requires higher download speeds to ensure large games or patches can be downloaded quickly.
 
 ### Upload speed
 
@@ -45,10 +45,10 @@ Zoom needs 1.5 - 3.8 Mbps upload for HD video. Again, just like with download sp
 
 | Mbps | Use case |
 | ---- | -------- |
-| Under 10 | Slow uploads, standard definition video upload for streaming and video calls.                                  |
-| 10 - 20  | Basic uploads, HD video upload for streaming and video calls.                                                  |
-| 20 - 100 | 4K video upload. Multiple HD video uploads for streaming and video calls.                                      |
-| 100+     | Multiple 4K streams, and quick uploads of large files. Reliably host small business server operations locally. |
+| Under 10 | Slow uploads, standard definition video upload for streaming and video calls.                                       |
+| 10 - 20  | Basic uploads, HD video upload for streaming and video calls.                                                       |
+| 20 - 100 | 4K video upload. Multiple HD video uploads for streaming and video calls.                                           |
+| 100+     | Multiple 4K streams, and quick uploads of large files. Reliably host many small business server operations locally. |
 
 The FCC considers connections with speeds of 100 Mbps down / 20 Mbps up as *broadband* connections.
 
@@ -56,36 +56,36 @@ The FCC considers connections with speeds of 100 Mbps down / 20 Mbps up as *broa
 
 ![Latency being measured by a local computer](./assets/latency.png)
 
-Latency is the measurement of how long it takes data to make a round trip from the source, to the destination, and back. It is typically measured in milliseconds (ms).
+Latency measures how long it takes data to travel from the source to the destination and back. It is typically measured in milliseconds (ms).
 
-Fast-paced online gaming needs less than 50ms for smooth play. If you're on a call and you feel like you and the other party on the line are continually interrupting each other, it could be because of a high latency connection.
+Fast-paced online gaming needs less than 50ms for smooth play. If you're on a call and feel like you and the other party are continually interrupting each other, it could be because of a high latency connection.
 
-The below table outlines latency ranges and how they can impact the connection experience.
+The table below outlines some latency ranges and potential impacts on the connection experience.
 
-| Latency (ms) | Impact of latency on connection |
-| ------------ | ------------------------------- |
-| Under 20     | Almost none                     |
-| 20 - 50      | Minimal                         |
-| 50 - 100     | Some                            |
-| 100 - 250    | Noticeable                      |
-| 250+         | Potentially unusable            |
+| Latency (ms) | Impact of latency on the connection |
+| ------------ | ----------------------------------- |
+| Under 20     | Almost none                         |
+| 20 - 50      | Minimal                             |
+| 50 - 100     | Some                                |
+| 100 - 250    | Noticeable                          |
+| 250+         | Potentially unusable                |
 
 <div class="activity discussion">
   <h2 class="title">What did you find?</h2>
   <span class="minutes">5 min</span>
 </div>
 
-Knowing what you know now, is there anything surprising about the speed test results from your [Cloudflare Speed Test](https://speed.cloudflare.com/)? Is your connection speed dramatically less than what you've been sold by your ISP?
+Knowing what you know now, is there anything surprising about the speed test results from your [Cloudflare Speed Test](https://speed.cloudflare.com/)? Is your connection speed dramatically less than what your ISP has sold you?
 
 ## Wrap up
 
 You may have discovered your connection speed or quality isn't what you thought it was as part of this test.
 
-If that's the case, you may be interested in reviewing the following sections on your own and seeing what you can do to improve your connection quality.
+If that's the case, consider reviewing the following sections on your own and seeing what you can do to improve your connection quality.
 
 ### What can affect your connection speed?
 
-These are the most common factors you can impact your connection speed. Some things you can control, but there are many you can't.
+These are the most common factors that can impact your connection speed. Some things you can control, but there are many you can't.
 
 1. Physical factors:
 
@@ -114,7 +114,7 @@ If your speeds seem low, these areas may be a good place to start troubleshootin
 
 1. Basic checks:
 
-   - Move closer to router.
+   - Move closer to the router.
    - Test at different times of day - some connection types are shared with neighbors.
    - Check how many devices are connected.
 
