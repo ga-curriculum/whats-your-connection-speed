@@ -26,8 +26,8 @@ In this discussion module, you'll use the [Cloudflare Speed Test](https://speed.
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-connection-speed/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/whats-your-connection-speed/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/whats-your-connection-speed/canvas-landing-pages/itb.html)
+- [Fallback](https://ga-curriculum.github.io/whats-your-connection-speed/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -39,4 +39,4 @@ In this discussion module, you'll use the [Cloudflare Speed Test](https://speed.
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
